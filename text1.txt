@@ -1,6 +1,2 @@
 1111
-<<<<<<< HEAD
 master
-=======
-master
->>>>>>> silas
